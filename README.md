@@ -9,3 +9,5 @@ In this to-do list you can:
 - delete a task
 - see total amount of tasks
 - see amount of completed tasks
+
+![](gif.gif)
